@@ -1,3 +1,4 @@
+![Upload Python Package](https://github.com/toshi-qcri/scrapy-rabbitmq-publisher/workflows/Upload%20Python%20Package/badge.svg)
 ## A RabbitMQ Publisher for Scrapy Framework.
 
 Scrapy-RabbitMQ-Publisher allows you to save publish items to RabbitMQ.
